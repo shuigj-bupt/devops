@@ -1,4 +1,5 @@
 #change agent name
+# add new stages
 pipeline { 
     agent any 
     stages {
